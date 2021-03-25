@@ -1,5 +1,5 @@
 # Custom-Lip-Sync-Tool
-To be used in Maya. This tool generates a Facial Animation tool for several diffrent rigs. It has a name space text box where you can enter a custom name space in order to prevent errors when using imported rigs. 
+To be used in Maya 2018 and higher. This tool generates a Facial Animation tool for several diffrent rigs. It has a name space text box where you can enter a custom name space in order to prevent errors when using imported rigs. 
 
 SUPPORTED RIGS
 
