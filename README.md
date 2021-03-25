@@ -5,7 +5,8 @@ SUPPORTED RIGS
 
 <h1>PAID RIGS</h1>
 
-Sam by Gabriel Salas - https://gumroad.com/gabrielsalas?recommended_by=search#gTdpb /n
+Sam by Gabriel Salas - https://gumroad.com/gabrielsalas?recommended_by=search#gTdpb 
+
 Nadia by Anim_Matt -  https://gumroad.com/anim_matt?recommended_by=search&sort=page_layout#iTwco
 
 Penelopy by Anim_Matt - https://gumroad.com/l/klTza?recommended_by=search
