@@ -26,6 +26,7 @@ Link Breath of the Wild by Christoph Schoch - https://gumroad.com/l/lFnryq?recom
 
 
 <h1>HOW TO USE</h1>
+
 1) Drag the .py inyo your maya scene. the window that is created has 2 text boxes, a button and a list of rigs
 2) Determine the name space of your rig usually when importing rigs it will be the name of the filew in which it came from, but you can double check by selecting any contoller. If there is no text before the name of the controller move on to step 4
 3) In the Channel Box double click the contoller name and copy the text that appears before the contoller name into the Name Space text box.
